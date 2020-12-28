@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick(Banned)
+game.Players.LocalPlayer:Kick("Banned from this game for using exploits, time left : permanent")
